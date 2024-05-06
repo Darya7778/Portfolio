@@ -1,0 +1,146 @@
+[
+  {
+    "id": "one",
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 444555666777888,
+    "category": {
+      "id": "a",
+      "name": "string"
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 444555666777888,
+    "category": {
+      "id": 0,
+      "name": 345
+    },
+    "name": "doggie",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 444555666777888,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": 456,
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 444555666777888,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "string",
+    "photoUrls": [
+      567
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 444555666777888,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "string",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": "b",
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 444555666777888,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "string",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": 678
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 444555666777888,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "string",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": 789
+  }
+]
