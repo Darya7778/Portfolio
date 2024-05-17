@@ -5,6 +5,6 @@
 2) Пример, поиска багов на сайте ts.red-promo.ru:
    https://docs.google.com/spreadsheets/d/1tRTocjAAuJMK6cx6LHyDwjnOQY5DycNNWGbaHwgk4TU/edit?usp=sharing
 
-3) Пример коллекции в Postman для сервсиса PetSwagger: postman_collection_example/Petstore.postman_collection.json
+3) Пример коллекции в Postman для сервиса PetSwagger: postman_collection_example/Petstore.postman_collection.json
  
    примечание: тесты параметризованы с использованием test data файла. Запускать коллекцию с файлом add_pet_test_data.json
